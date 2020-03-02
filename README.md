@@ -1,5 +1,4 @@
 ## Installation
----
 
 ### Clone repository
 ```
@@ -20,9 +19,9 @@ export BACKUP_DIR = '/home/user/backup'
 make
 make install
 ```
+Script will be installed at `~/.local/bin`
 
 ## Usage
----
 ```
 $ sync-secrets filename.txt
 ```
